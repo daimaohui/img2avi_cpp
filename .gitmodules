@@ -1,0 +1,3 @@
+[submodule "thrid_party/ggml"]
+	path = thrid_party/ggml
+	url = git@github.com:ggml-org/ggml.git
